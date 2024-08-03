@@ -6,8 +6,8 @@
     "dashboard": "Dashboard"
   },
   "footer": {
-    "slogan": "Search 10000+ Useful AI Tools By What You Need",
-    "submitATool": "Submit a Tool",
+    "slogan": "The 1st Stop for Finding Mindfulness Resources",
+    "submitATool": "Submit Resource",
     "aboutUs": "About Us",
     "contactUs": "Contact Us",
     "privacy": "Privacy",
@@ -24,50 +24,50 @@
     "categoryManage": "Category Manage"
   },
   "index": {
-    "slogan": "Search 10000+ Useful AI Tools By What You Need",
+    "slogan": "The 1st Stop for Finding Mindfulness Resources",
     "featured": "Featured",
     "latest": "Latest",
-    "searchPlaceholder": "i want to write an article...",
+    "searchPlaceholder": "i want to find a teacher...",
     "clearAll": "Clear All",
     "more": "More +"
   },
   "metadata": {
-    "title": "aigotools.com",
-    "description": "AigoTools is a leading AI tools directory and search engine. AigoTools helps you discover the best AI tools,apps and services list and takes your personal and business productivity to the next level.",
-    "keywords": "Open source AI tools directory,AI tools directory, AI tool list, AI tools search engine, artificial inteligence applications,top ai tools, best ai tools directory, best ai tools, ai tools list"
+    "title": "Mindful Directory",
+    "description": "Directory of Mindfulness Teachers, Courses, Practices, Events, Communities, Articles, Videos, Audios.",
+    "keywords": "mindful directory, mindfulness directory, mindfulness meditation, mindfulness meditation for beginners, mindfulness meditation for anxiety, mindfulness for kids, mindfulness definition, mindfulness benefits, mindfulness practice, mindfulness app, mindfulness courses, mindfulness courses online, mindfulness teacher, body scan meditation"
   },
   "site": {
     "categories": "Categories",
-    "users": "Users of this tool",
+    "users": "Users",
     "pricings": "Pricing",
     "topFeatures": "Top Features",
     "usecases": "Usecases",
     "visitSite": "Visit Site",
     "upvote": "Upvote",
-    "relatedTools": "Related AI Tools",
+    "relatedTools": "Related",
     "voteFailed": "Vote Failed",
     "links": "Links",
     "loginPage": "Login",
     "registerPage": "Register",
     "docPage": "Documentation",
     "pricingPage": "Pricing",
-    "relatedSearchs": "Related Searchs"
+    "relatedSearchs": "Related Search"
   },
   "search": {
     "metadata": { "title": "Search AI tools" },
     "result": "Search Result",
-    "empty": "Oppos,no result...",
+    "empty": "Oops! There are no results found. Please try another search.",
     "loadMore": "Load More",
     "loadFailed": "Load Failed"
   },
   "submit": {
-    "metadata": { "title": "Submit yout AI Tool" },
-    "title": "Submit yout AI Tool",
+    "metadata": { "title": "Submit your mindfulness resource" },
+    "title": "Submit your mindfulness resource",
     "subTitle": "Submit your website in one minute",
     "websiteName": "Website Name",
-    "websiteNamePlaceholder": "AigoTools",
+    "websiteNamePlaceholder": "Mindful Directory",
     "websiteUrl": "Website Url",
-    "websiteUrlPlaceholder": "https://aigotools.com",
+    "websiteUrlPlaceholder": "https://www.mindful-directory.com",
     "submit": "Submit",
     "requireName": "Name is requireed",
     "requireUrl": "Url is requireed",
